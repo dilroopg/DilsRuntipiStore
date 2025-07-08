@@ -1,6 +1,5 @@
 # Dil's Runtipi AppStore
-
-This repository serves as a template for creating your own custom app store for the Runtipi platform. Use this as a starting point to create and share your own collection of applications.
+Add this appstore by copying https://github.com/dilroopg/DilsRuntipiStore/ into your runtipi repo settings.
 
 ## Repository Structure
 
